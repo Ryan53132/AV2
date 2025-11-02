@@ -9,7 +9,7 @@ Para executar o código, siga atentamente os passos abaixo:
 Clone o repositório do projeto para o seu computador utilizando **Git**:
 
 ``` bash
-git clone https://github.com/SeuUsuario/SeuRepositorio.git
+git clone https://github.com/Ryan53132/AV2.git
 ```
 
 ------------------------------------------------------------------------
